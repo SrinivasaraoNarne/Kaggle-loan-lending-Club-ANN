@@ -16,7 +16,7 @@ Loan default prediction is critical for financial institutions to assess credit 
 # Dataset
 The dataset contains features like loan amount, term, interest rate, credit score, and payment history. These features are used to predict the likelihood of a loan default.
 * Source: [Kaggle Loan Lending Dataset](https://www.kaggle.com/)
-* DataSets: 
+* DataSets: [dataset](https://drive.google.com/file/d/1niYMelh1rfcm0HhdmR2hMtGkRYgk446r/view?usp=sharing)
 # Results
 * Training Accuracy: 93%
 * Validation Accuracy: 90%
@@ -26,6 +26,3 @@ The dataset contains features like loan amount, term, interest rate, credit scor
   * F1-Score: 89%
 # Acknowledgments
 Thanks to Kaggle for providing the dataset and to the open-source community for tools and resources.
-
-
-https://www.kaggle.com/datasets/wordsforthewise/lending-club/data
